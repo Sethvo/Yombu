@@ -11,7 +11,7 @@ Our goal is to make the entire party planning process seamless and fun, taking c
 We are creating a comprehensive platform that offers more than just exceptional kids' entertainment booking options. We strive to be a valuable resource for party planning, providing users with extensive and helpful guides and articles designed to assist in planning and organizing unforgettable events.
 
 # Important Links
-Some important links to our resources and information about us:
+<p>Some important links to our resources and information about us:<br />
 <a href="https://yombu.com/">Home</a><br />
 <a href="https://yombu.com/faq/">FAQ's</a><br />
 <a href="https://yombu.com/faq/general/privacy-policy/">Privacy Policy</a><br />
